@@ -57,6 +57,8 @@ hr.divider {
   max-width: 250px;
 }
 
+#mapid { height: 180px; }
+
 .map-container iframe {
   pointer-events: none;
 }
