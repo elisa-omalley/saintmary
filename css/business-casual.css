@@ -57,10 +57,6 @@ hr.divider {
   max-width: 250px;
 }
 
-.map-container iframe {
-  pointer-events: none;
-}
-
 .map-container iframe.clicked {
   pointer-events: auto;
 }
