@@ -74,3 +74,12 @@ hr.divider {
         height: 75%;
     }
 }
+
+.carousel-item {
+  justify-content: center;
+}
+
+.carousel-item.active, .carousel-item-left, .carousel-item-right {
+  display: flex;
+}
+
